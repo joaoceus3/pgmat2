@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.fundo{
+    background-color: rgb(255, 203, 242);
+    border:0px;
+    width: 100%;
+    height: 1000px;
+    position: relative;
+    overflow: hidden;
+    
+    }
+
+.his{
+
+    font-family: Verdana;
+font-size: x-large;
+    position: absolute;
+        left: 25px;
+        top: 155px;
+       width: 950px;
+
+
+
+
+
+}
+
+.sn{
+        color: rgb(175, 0, 190);
+        position: absolute;
+        left: 175px;
+        top: 10px;
+        font: 100 80px "Gidugu", sans-serif; 
+        width: 100;
+    }
+    
+
+
+
+.voltar{       color: rgb(175, 0, 190);
+    font: 25px "Gidugu", sans-serif;
+    font-size: 40px;
+    position: absolute;
+    left: 7px;
+    top: 15px;
+    width: 352px;}
+
+
+
+
+
