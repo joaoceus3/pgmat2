@@ -142,58 +142,59 @@ width: 171px;
 
     .modelo1{
         position: absolute;
-        left: 145px;
+        left: 70px;
         top: 333px;
-       width: 330px;
+        width: 371px;
 
     }
       
     .modelo2{
         position: absolute;
-        left: 535px;
+        left: 485px;
         top: 333px;
-       width: 330px;
-
+        width: 337px;
     }
+
+    
     
 
     .modelo3{
         position: absolute;
-        left: 910px;
+        left: 855px;
         top: 333px;
-        width: 270px;
+        width: 398px;
     }
 
     .modelo4{
         position: absolute;
         font-family: 'Dancing Script', cursive;
-        left: 180px;
+        left: 72px;
         top: 670px;
-        width: 270px;
+        width: 293px;
     }
 
 
     .modelo5{
         position: absolute;
-        left: 477px;
-        top: 670px;
-        width: 189px;
+    left: 377px;
+    top: 670px;
+    width: 296px;
     }
 
     .modelo6{
         position: absolute;
-        left: 677px;
-        top: 670px;
-        width: 175px;
+        left: 681px;
+        top: 671px;
+        width: 453px;
     }
 
 
 
     .modelo7{
         position: absolute;
-        left: 862px;
+        left: 1151px;
         top: 670px;
-        width: 320px;
+        width: 435px;
     }
 
 
