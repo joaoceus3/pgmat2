@@ -5,7 +5,7 @@
 
 
 .fundo{
-    background: radial-gradient(Peachpuff, pink, skyblue);
+    background: radial-gradient(rgb(51, 32, 40), pink, rgb(157, 182, 98));
     border:0px;
     width: 100%;
     height: 1300px;
