@@ -93,14 +93,12 @@ width: 171px;
 
 
     .seja{
-        color: rgb(175, 0, 190);
-        font-family: 'Dancing Script', cursive;
+       
         position: absolute;
         left: 1240px;
         top: 126px;
         width: 892px;
 
-        font-size: 50px;
     }
     
     .sejadescri{
