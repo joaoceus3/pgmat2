@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.fundo{
+    background: radial-gradient(rgb(27, 31, 5), rgb(70, 64, 15), rgb(124, 118, 25));
+    border:0px;
+    width: 100%;
+    height: 1300px;
+    position: relative;
+    overflow: hidden;
+    
+
+    }
+
+
+.hist{
+    color: rgb(175, 0, 190);
+    font: 100 80px "Gidugu", sans-serif; 
+}
+
+
+
+.contato{
+
+    color: rgb(175, 0, 190);
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    left: 40px;
+    top: 1060px;
+    width: 362px;
+    font-size: 60px;
+}
+
+
+.num{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    position: absolute;
+    left: 310px;
+    top: 1090px;
+   width: -1px;
+
+
+}
+
+
+.insta{
+
+    position: absolute;
+    left: 836px;
+top: 1055px;
+width: 171px;
+
+    
+}
+
+
+
+
+
+
+
+
+    .titulo{
+        color: rgb(175, 0, 190);
+        position: absolute;
+        left: 175px;
+        top: 10px;
+        font: 100 80px "Gidugu", sans-serif; 
+    }
+    
+    .logo{
+
+
+        position: absolute;
+        left: 335px;
+        top: 17px;
+        width: 610px;
+
+
+
+
+
+
+    }
+
+
+
+
+
+    .seja{
+       
+        position: absolute;
+    left: 1153px;
+    top: -30px;
+    width: 915px;
+
+    }
+    
+    .sejadescri{
+
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        left: 1306px;
+        top: 233px;
+        width: 460px;
+        font-size: 25px;
+
+
+
+
+
+
+
+    }
+
+    .pgs{
+        color: rgb(175, 0, 190);
+    font: 25px "Gidugu", sans-serif;
+    position: absolute;
+    left: 7px;
+    top: 15px;
+    width: 352px;
+    
+    }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    .modelo1{
+        position: absolute;
+        left: 70px;
+        top: 333px;
+        width: 371px;
+
+    }
+      
+    .modelo2{
+        position: absolute;
+        left: 485px;
+        top: 333px;
+        width: 337px;
+    }
+
+    
+    
+
+    .modelo3{
+        position: absolute;
+        left: 855px;
+        top: 333px;
+        width: 398px;
+    }
+
+    .modelo4{
+        position: absolute;
+        font-family: 'Dancing Script', cursive;
+        left: 72px;
+        top: 670px;
+        width: 293px;
+    }
+
+
+    .modelo5{
+        position: absolute;
+    left: 377px;
+    top: 670px;
+    width: 296px;
+    }
+
+    .modelo6{
+        position: absolute;
+        left: 681px;
+        top: 671px;
+        width: 453px;
+    }
+
+
+
+    .modelo7{
+        position: absolute;
+        left: 1151px;
+        top: 670px;
+        width: 435px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    .top{
+        color: rgb(175, 0, 190);
+      
+        position: absolute;
+        left: 40px;
+        top: 255px;
+        width: 362px;
+    
+
+font-size: 45px;
+
+
+    font-family: 'Dancing Script', cursive;
+
+
+
+    }
+
+
+
+
+
+
+
+
+    
+    
