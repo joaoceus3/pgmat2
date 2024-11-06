@@ -5,7 +5,7 @@
 
 
 .fundo{
-    background: linear-gradient(180deg,#fd5f0e 0%, rgb(255 110 36 / 48%)60.5%, #ffffff4f 99.1%, rgb(123 89 71 / 0%)100%);
+    background: linear-gradient(180deg,#fdb10e 0%, rgba(255, 197, 36, 0.48)60.5%, #ffffff4f 99.1%, rgb(123 89 71 / 0%)100%);
     border:0px;
     width: 100%;
     height: 1300px;
